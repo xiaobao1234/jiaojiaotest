@@ -1,0 +1,4 @@
+sfafsd
+fdsajdsakj
+fdsakjfdsa
+从remote repo直接pull到ws
